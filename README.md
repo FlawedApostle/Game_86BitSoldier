@@ -9,5 +9,5 @@ The games objective is to survive as long as possible.
 
 This is just a hobby game, for fun to learn openGL && SDL.
 
-SpaceNomad ©
-ElevatorMusicProducitons ©
+DeepSpaceNomad ©
+ElevatorMusicProductions ©
